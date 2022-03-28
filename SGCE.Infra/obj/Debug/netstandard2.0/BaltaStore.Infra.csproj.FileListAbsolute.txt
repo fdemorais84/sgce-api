@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.deps.json
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.dll
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csproj.CopyComplete
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
+C:\Users\User\Desktop\LES\Projeto LES\1974-master\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
